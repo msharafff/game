@@ -1,0 +1,18 @@
+
+div{
+    text-align: center;
+}
+
+ img{
+    width: 9rem;
+    object-fit: contain;
+    margin: 3rem auto 1rem auto;
+     filter: drop-shadow(0 0 8px rgba(0, 0, 0, 0.4));
+}
+
+h1{
+    font-family:'Caprasimo', cursive;
+    font-size: 3rem;
+    margin: 0rem auto 1rem auto;
+    color: #3f3b00;
+}
